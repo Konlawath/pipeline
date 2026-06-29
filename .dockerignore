@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Output (สร้างจาก pipeline ไม่ต้อง copy เข้า container)
+output/
+
+# Excel
+*.xlsx
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# README
+README.md
